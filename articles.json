@@ -1,0 +1,25 @@
+// articles.json
+
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Les bienfaits de la méditation",
+            "excerpt": "Découvrez comment la méditation peut améliorer votre bien-être mental et physique...",
+            "content": "La méditation est une pratique millénaire qui offre de nombreux bienfaits pour la santé..."
+        },
+        {
+            "id": 2,
+            "title": "Voyager en Europe avec un budget serré",
+            "excerpt": "Des astuces pour explorer l'Europe sans dépenser une fortune...",
+            "content": "Voyager en Europe peut être coûteux, mais avec quelques astuces, vous pouvez explorer ce magnifique continent sans vous ruiner..."
+        },
+        {
+            "id": 3,
+            "title": "Recettes végétariennes faciles et délicieuses",
+            "excerpt": "Essayez ces recettes végétariennes simples et savoureuses pour des repas sains...",
+            "content": "Adopter un régime végétarien peut sembler difficile, mais avec ces recettes faciles, vous pourrez cuisiner des plats délicieux sans viande..."
+        }
+        // Ajoutez plus d'articles ici
+    ]
+}
