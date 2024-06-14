@@ -19,7 +19,49 @@
             "title": "Recettes végétariennes faciles et délicieuses",
             "excerpt": "Essayez ces recettes végétariennes simples et savoureuses pour des repas sains...",
             "content": "Adopter un régime végétarien peut sembler difficile, mais avec ces recettes faciles, vous pourrez cuisiner des plats délicieux sans viande..."
+        },
+        {
+            "id": 4,
+            "title": "Comment rester productif en travaillant de chez soi",
+            "excerpt": "Des conseils pour maintenir votre productivité lorsque vous travaillez depuis votre domicile...",
+            "content": "Travailler de chez soi peut être un défi en termes de productivité. Voici quelques conseils pour rester concentré et productif..."
+        },
+        {
+            "id": 5,
+            "title": "L'impact des technologies sur l'éducation moderne",
+            "excerpt": "Analyse de l'influence des nouvelles technologies sur le système éducatif...",
+            "content": "Les technologies modernes ont transformé le paysage éducatif. Découvrez comment les outils numériques changent la manière dont nous apprenons et enseignons..."
+        },
+        {
+            "id": 6,
+            "title": "Guide de la photographie pour débutants",
+            "excerpt": "Apprenez les bases de la photographie avec ce guide pour débutants...",
+            "content": "La photographie est un art qui peut être appris par tous. Ce guide vous fournira les bases nécessaires pour commencer à capturer de belles images..."
+        },
+        {
+            "id": 7,
+            "title": "Les meilleures destinations de voyage en 2024",
+            "excerpt": "Découvrez les destinations de voyage les plus populaires pour 2024...",
+            "content": "2024 s'annonce comme une année exceptionnelle pour les voyages. Voici les destinations à ne pas manquer cette année..."
+        },
+        {
+            "id": 8,
+            "title": "Stratégies de marketing digital pour petites entreprises",
+            "excerpt": "Des stratégies efficaces pour améliorer la visibilité en ligne de votre petite entreprise...",
+            "content": "Le marketing digital est essentiel pour les petites entreprises. Apprenez des stratégies clés pour accroître votre présence en ligne et attirer plus de clients..."
+        },
+        {
+            "id": 9,
+            "title": "Comment cultiver un jardin bio",
+            "excerpt": "Des conseils pour créer et entretenir un jardin biologique chez vous...",
+            "content": "Cultiver un jardin bio est une excellente façon de produire des légumes sains et savoureux. Voici quelques conseils pour commencer..."
+        },
+        {
+            "id": 10,
+            "title": "L'évolution de l'intelligence artificielle",
+            "excerpt": "Un aperçu des avancées récentes en matière d'intelligence artificielle...",
+            "content": "L'intelligence artificielle (IA) évolue rapidement. Découvrez les dernières innovations et leur impact potentiel sur divers secteurs..."
         }
-        // Ajoutez plus d'articles ici
+        // Ajoutez plus d'articles ici pour atteindre 30-40 articles
     ]
 }
