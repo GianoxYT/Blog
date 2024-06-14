@@ -11,7 +11,6 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(data => {
             const categoryArticles = data.articles.filter(article => article.category === categoryName);
             const categoryArticlesSection = document.getElementById('category-articles');
-
             categoryArticles.forEach(article => {
                 const articleCard = document.createElement('div');
                 articleCard.classList.add('article-card');
